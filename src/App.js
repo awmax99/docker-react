@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My new code in App.js!!<br/>Try again.
+          This is a React app using Docker, GIT, Travis, and AWS! 
         </p>
         <a
           className="App-link"
